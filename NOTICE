@@ -1,0 +1,8 @@
+rlcd-decision-atlas
+Copyright 2026 Kurumella
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file.
+
+This project builds a dataset from third-party public datasets downloaded at build time from the
+Hugging Face Hub. Those datasets are not distributed here and remain under their own licenses;
+each source's license is recorded in the build's stats.json for reference.
